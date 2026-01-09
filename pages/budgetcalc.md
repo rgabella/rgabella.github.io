@@ -1,6 +1,8 @@
+---
 layout: page
 title: Budget Calculator
 permalink: /budgetcalc/
+---
 
 <!DOCTYPE html>
 <html lang="en">
